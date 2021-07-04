@@ -1,3 +1,6 @@
-# Hello-World
-Hello from Brian in London
-I'm an senior analyst with a growing interest in coding.
+edit docker-compose
+command: bundle update
+gem "kramdown",">=2.3.2"
+docker compose-down
+docker compose-up
+run
